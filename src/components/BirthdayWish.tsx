@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from '../styles/BirthdayWish.module.css';
 import pranav from '../assets/pranav.jpg';
 
@@ -17,9 +16,7 @@ const BirthdayWish = () => {
         Here's to celebrating you and all your achievements! 🎉
       </p>
       <p className={styles.message}>
-        🎂 Happy Birthday, Boss! If we could bottle your enthusiasm and vision, we'd be millionaires.
-        But since we can't, we'll just keep following your lead and hoping some of it rubs off on us.
-        Have a fantastic day! 🎂
+        🎂 Warmest birthday wishes to the most remarkable leader. May this special day bring you all the success and happiness you deserve. Happy Birthday, Pranav Sir!! 🎂
       </p>
     </div>
   );
